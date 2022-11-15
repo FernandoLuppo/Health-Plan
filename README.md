@@ -17,6 +17,8 @@
 <br> - HTML
 <br> - React.js
 <br> - React Router
+<br> - Node.js
+<br> - Express
 <br> - MySQL
 <br> - Sequelize
 <br> - Axios
