@@ -1,0 +1,20 @@
+.container-values {
+    width: 90%;
+    margin: auto;   
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;  
+    border-radius: 5px;
+    border: 1px solid #2EA7DF;
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+    background-color: #ffffff;
+}
+
+.container-values h3 {
+    text-align: left !important;
+}
+
+.values > ul li {
+    list-style: none;
+    margin-left: 10px;
+}

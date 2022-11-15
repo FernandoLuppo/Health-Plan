@@ -1,0 +1,23 @@
+.div-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.div-button button {
+    cursor: pointer;
+    width: 30%;
+    padding: 8px 0;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    transition: .2s;
+    color: #ffffff;
+    background-color: #2EA7DF;
+}
+
+.div-button button:hover {
+    background-color: #44bdf5;
+}

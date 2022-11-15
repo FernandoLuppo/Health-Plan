@@ -1,0 +1,35 @@
+
+.background {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    background-image: linear-gradient(150deg, #ffffff 10%, #EFF4F9 20%, rgba(0,0,0,0.2))
+}
+
+.container-form {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #ffffff;
+}
+
+.form-content {
+    width: 90%;
+    margin: auto;   
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;  
+    border-radius: 5px;
+    border: 1px solid #2EA7DF;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: #ffffff;
+}
+
+.container-form h2 {
+    padding-top: 20px;
+    text-align: center;
+    color: #2EA7DF;
+}
+

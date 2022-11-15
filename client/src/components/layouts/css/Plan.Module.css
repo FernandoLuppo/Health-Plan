@@ -1,0 +1,15 @@
+.form-plan {
+    padding-bottom: 20px;
+}
+
+.select-input {
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #2EA7DF;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

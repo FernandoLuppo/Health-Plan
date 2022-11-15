@@ -1,0 +1,38 @@
+header {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2ea7df;
+}
+
+header h1 {
+    margin-left: 200px;
+    color: #ffffff;
+    font-size: 55px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav-item {
+    text-decoration: none;
+    cursor: pointer;
+    height: 25px;
+    margin: 0 20px;
+    font-weight: bold;
+    transition: .2s;
+    font-size: 17px;
+    color: #2f2f2f;
+}
+
+.nav-item:hover {
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+
+li:last-of-type {
+    margin-right: 200px;
+}
